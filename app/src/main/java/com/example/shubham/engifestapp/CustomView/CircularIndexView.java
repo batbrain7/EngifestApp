@@ -29,20 +29,20 @@ public class CircularIndexView extends ViewGroup {
     private float startAngle = 0;
     private float centerXY;
 
-      String[] places = new String[]{"BR AMBEDKAR AUDITORIUM",
-              "WIND POINT",
-              "CONVOCATION HALL",
+      String[] places = new String[]{"BR Ambedkar Auditorium",
+              "Wind Point",
+              "Convocation Hall",
               "OAT",
-              "MINI OAT",
+              "Mini OAT",
               "MECH C",
-              "SPORTS COMPLEX",
+              "Sports Complex",
               "SPS HALLS",
-              "MIC MAC",
-              "EDUSAT HALL",
-              "HOSTEL ROAD",
-              "DTU MAIN GATE",
-              "DTU LAKE",
-              "TRANSIT HOSTEL GROUND"
+              "Clock Tower",
+              "Edusat Hal",
+              "Hostel Road",
+              "DTU Entrance Gate",
+              "DTU Lake",
+              "Transit Hostel Ground"
       };
 
 
@@ -64,7 +64,6 @@ public class CircularIndexView extends ViewGroup {
 
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
-//        super.onMeasure(widthMeasureSpec, heightMeasureSpec);
 
         int width = 0;
         int height = 0;
