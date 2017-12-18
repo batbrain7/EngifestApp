@@ -25,11 +25,11 @@
         android:id="@+id/circular_view"
         android:background="#00000000"
         >
-        <TextView
+        <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:textAppearanceLarge"
-            android:text="Places"
+            android:src="@mipmap/disc"
             />
     </com.example.shubham.engifestapp.CustomView.CircularIndexView>
         <LinearLayout

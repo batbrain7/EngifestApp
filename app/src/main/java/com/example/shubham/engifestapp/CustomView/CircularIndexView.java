@@ -59,7 +59,7 @@ public class CircularIndexView extends ViewGroup {
     public CircularIndexView(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
         this.context = context;
-        bitmap = BitmapFactory.decodeResource(getResources(),R.mipmap.ring);
+        bitmap = BitmapFactory.decodeResource(getResources(),R.mipmap.dtulocs);
     }
 
     @Override
@@ -187,7 +187,8 @@ public class CircularIndexView extends ViewGroup {
     }
 
     private void showTheChange(String place) {
-        Toast.makeText(context,"Venue is" + place,Toast.LENGTH_SHORT);
+
+
     }
 
     private int getPlacePosition(String place) {
