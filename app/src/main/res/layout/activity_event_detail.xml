@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.shubham.engifestapp.Activities.EventDetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/date_time"
+            android:text="Date"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/venue"
+            android:text="Venue"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/register_link"
+            android:text="Register"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/rules_regulations"
+            android:text="Rules"
+            />
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/scroll_View"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="125dp"
+                android:scaleType="fitXY"
+                android:id="@+id/image_master"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" \nPRELIMS/ELIMINATIONS:
+\nAll the participating teams must mail a short synopsis (50-100 words) of their scripts and the
+\nscript to  pratibimb.dtu@gmail.com
+\n15 teams will be shortlisted on basis of script, past performances (preference will be given to teams registering first)
+\nFINALS:
+\nTeam size: No restrictions
+\nTime limit: 22+2 minutes (empty stage to empty stage)
+\nTeams must perform the same street play which was mentioned in the script eliminations.
+\nJudging Criteria:
+\nActing, Voice (sync, modulation, diction), Screenplay, Script, Crowd interaction and
+\nOverall impact.
+\n"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="2dp"
+                android:textColor="#e53f3f"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                android:paddingTop="20dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="DATE"
+                    android:textColor="#e53f3f"
+                    android:textSize="11dp"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="TIME"
+                    android:textColor="#e53f3f"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="18-20th Feb 2017"
+                    android:gravity="center"
+                    android:textSize="15dp"
+                    android:textColor="#000"
+                    android:layout_weight="0.6"
+                    android:id="@+id/eventdate"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="10AM - 12AM"
+                    android:textSize="15dp"
+                    android:textColor="#000"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:id="@+id/eventtime"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal"
+                >
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="5dp"
+                    android:layout_weight="1"
+                    >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="11dp"
+                        android:text="Venue"
+                        android:textColor="#e53f3f"
+                        android:id="@+id/eventvenue"
+
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Delhi Technological University"
+                        android:textColor="#000"
+                        android:textSize="17dp"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#000"
+                        android:text="BR Ambedkar Auditorium"
+                        android:id="@+id/master_venue"
+                        />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView
+                android:padding="10dp"
+                android:textSize="11dp"
+                android:textColor="#e53f3f"
+                android:id="@+id/offlink"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Register Here"
+                />
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:text="register"
+                android:id="@+id/regbutton"
+                android:textColor="#fff"
+                android:layout_marginBottom="30dp"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingBottom="2dp"
+                android:id="@+id/about_event"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingBottom="2dp"
+                android:id="@+id/rulesregul"
+                android:layout_height="wrap_content"
+                android:text="Rules And Regulations"
+                android:textAppearance="?android:textAppearanceLarge"
+                android:textColor="#e53f3f"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingBottom="2dp"
+                android:text="\nGeneral Rules:
+\n
+\n1.  The team size represents the number of people registered as a team. Only these shall be allowed to perform the street play.
+\n2.  Minimum of 8 actors are to be included in the team
+\n3.  Music accompanists are included in the team number stated above
+\n4.  Teams are expected to perform at an open air venue, on a circular stage with audience all around
+\n5.  No electrical appliances shall be allowed during the performance, whether inside or outside the circle of peformance.
+\n6.  Only live music is allowed. Teams will have to bring their own instruments - no instrument shall be provided
+\n7.  Language of the performance should be Hindi/English or both. However short sub passages in other languages are allowed.
+\n
+\n
+\n8.  Any kind of fluid, live animals, flame, heav object or any material which has a
+\npossibility of damaging the stage is not allowed
+\n9.  Dry colours may be used during the play, but the teams have t clean the stage after their performance and the cleaning time will be included in the performance time.
+\n10. Teams will be heavily penalised if they exceed the time limit
+\n11. Plays can be based on any theme but since performance is being held at public venues, any content drected against a certain political group or religious community is strictly prohibited.
+\n12. Obscenity (at the discretion of judges) of any kind is not allowed and may lad to disqualification.
+\n13. Any kind of plagiarism and profanity will lead to immeiate disqualification.
+\n14. The decision of the judges will be final and binding.
+\n"
+                android:id="@+id/rules_event"
+                />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

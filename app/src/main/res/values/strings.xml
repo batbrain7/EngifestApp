@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">EngifestApp</string>
+
+    <string-array name="Places">
+        <item>BR Ambedkar Auditorium</item>
+        <item>Wind Point</item>
+        <item>Convocation Hall</item>
+        <item>Open Air Theatre(OAT)</item>
+        <item>Mini OAT</item>
+        <item>Mechanical Canteen</item>
+        <item>Sports Complex</item>
+        <item>EduSat Hall</item>
+        <item>Hostel Road</item>
+        <item>DTU Main Gate</item>
+        <item>DTU Lake</item>
+        <item>Transit Hostel Ground</item>
+        <item>Night Canteen (MIC MAC)</item>
+        <item>SPS Halls</item>
+    </string-array>
 </resources>
