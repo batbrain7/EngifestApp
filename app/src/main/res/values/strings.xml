@@ -17,4 +17,1004 @@
         <item>Night Canteen (MIC MAC)</item>
         <item>SPS Halls</item>
     </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sponsors">SponsorsActivity</string>
+    <string name="nukkad">
+No Cultural Festival is complete without Street Play- arguably one of the oldest and most powerful forms of theater in existence.
+\n\nEngifest 18 in its quest to present unfathomable glories, presents its theatre events for this year.
+\n\nThe mirror of drama is used to make every person in attendance reflect upon themselves, and unearth beings that are better than the versions that began seeing the show.
+\n\nNukkad, the street event, brings out the issues and afflictions that ravage our nation at every moment, each day, and attempts to bring a change in the situations of the afflicted.
+\n\nFill the form below to register to participate in the Nukkad event of Engifest '18. Please ensure only one person fills the form and there are no repeated entries from the same college.
+        </string>
+    <string name="nukkadrules">
+        \nPRELIMS/ELIMINATIONS:
+\n
+\nAll the participating teams must mail a short synopsis (50-100 words) of their scripts and the
+\nscript to  pratibimb.dtu@gmail.com
+\n15 teams will be shortlisted on basis of script, past performances (preference will be given to teams registering first)
+\n
+\nFINALS:
+\n
+\nTeam size: No restrictions
+\nTime limit: 22+2 minutes (empty stage to empty stage)
+\nTeams must perform the same street play which was mentioned in the script eliminations.
+\nJudging Criteria:
+\nActing, Voice (sync, modulation, diction), Screenplay, Script, Crowd interaction and
+\nOverall impact.
+\n
+\nGeneral Rules:
+\n1.  The team size represents the number of people registered as a team. Only these shall be allowed to perform the street play.
+\n2.  Minimum of 8 actors are to be included in the team
+\n3.  Music accompanists are included in the team number stated above
+\n4.  Teams are expected to perform at an open air venue, on a circular stage with audience all around
+\n5.  No electrical appliances shall be allowed during the performance, whether inside or outside the circle of peformance.
+\n6.  Only live music is allowed. Teams will have to bring their own instruments - no instrument shall be provided
+\n7.  Language of the performance should be Hindi/English or both. However short sub passages in other languages are allowed.
+\n8.  Any kind of fluid, live animals, flame, heav object or any material which has a
+\npossibility of damaging the stage is not allowed
+\n9.  Dry colours may be used during the play, but the teams have t clean the stage after their performance and the cleaning time will be included in the performance time.
+\n10. Teams will be heavily penalised if they exceed the time limit
+\n11. Plays can be based on any theme but since performance is being held at public venues, any content drected against a certain political group or religious community is strictly prohibited.
+\n12. Obscenity (at the discretion of judges) of any kind is not allowed and may lad to disqualification.
+\n13. Any kind of plagiarism and profanity will lead to immeiate disqualification.
+\n14. The decision of the judges will be final and binding.
+\n
+    </string>
+    <string name="natya">
+     Engifest City Rekindled, in its quest to present unfathomable glories, presents its theatre events for this year.
+\nThe mirror of drama is used to make every person in attendance reflect upon themselves, and unearth beings that are better than the versions that began seeing the show.
+\nNatya, the stage event, performs the all-important role of telling stories – stories that make you shiver, that make you feel peaceful, that will connect with you on a level that makes a million things cross your mind.
+\nSatire, Comedy, Romance, Tragedy. You will have it all and yet yearn for more!
+\nCross out the dates on your calendars.
+\nBecause this time at Engifest '18 , the stages and streets await you, prepared to enchant with the beauty of the act.
+\n</string>
+    <string name="natyarules">
+         \nPRELIMS/ELIMINATIONS:
+\nTeam Size: No restrictions
+\nEliminations:
+\nRegistered teams will be called for eliminations in case of large number of entries teams will be selected for prelims on the basis of script and video.
+\n
+\nA summary of a play or a relevant part bringing out the essence of the play must be performed in Hindi/English or both. However short sub passages in other languages are allowed. The teams are required to submit a short synopsis (not more than 70 words) of the script of their play before the eliminations.\n
+\n
+\nTime Limit: 10-15 minutes (including the stage set up and clearance time
+\n
+\n
+\nFINALS:
+\nNumber of teams to be selected:-6-8
+\nThe complete version of the same play should be performed.
+\nTIME LIMIT: 35 - 50 minutes (including the stage set up and clearance time
+\nProduction material provided:
+\n4 chairs, 2 tables
+\nAny other production material has to be brought by the teams themselvesbut the organizers hold the discretion of allowing its inclusion on stage.
+\nJudging Criteria:
+\nScreenplay, Direction, Script, Acting and Overall Impact.
+\n
+\nGeneral Rules:
+\n
+\n1.  Performance should be in Hindi or English or both. However short sub - passages in other languages are allowed.
+\n2.  Stage Play comprises of multiple scenes and may have blackouts.
+\n3.  Backstage voiceovers and narrations are allowed during the performance.
+\n4.  Pre-recorded music is allowed and should be brought in a CD/DVD or a pen drive in .cda or .mp3 format only. (Other FORMATs may not be supported on the computer – use them at your own risk).
+\n5.  Participants will be provided with a laptop and are expected to appoint someone to operate the laptop during the performance.
+\n6.  Music may also be played live. However, no amplifiers or plug-points will be provided for this purpose.
+\n7.  Participants will be provided a light control box, using which the lighting on the
+\nstage can be controlled. (Teams need to have a CA for this purpose within Team
+\nSize limit).
+\n8.  Any kind of fluid, flame, live animals, heavy objects or any kind of material that damages the stage is strictly NOT allowed and may lead to disqualification.
+\n9.  Obscenity (at the discretion of the judges) of any kind is NOT allowed and will lead to immediate disqualification.
+\n10. Inappropriate content, blasphemy or content defaming any political or religious group is strictly prohibited.
+\n11. Time Limit should be strictly followed. Participants will be penalized by judges for not doing so. The time duration for prelims and finals includes performance time and stage setting time. The given time duration is from empty stage to empty stage.
+\n12. The decision of the judges will be final and binding\n
+
+    </string>
+    <string name="twoAShow">\nTwo is A Show (Duet)
+\n
+\n
+\nThe most beautiful things in the world cannot be seen or touched, they are felt with the
+\nheart.
+\nIf you’re the pair whose melodies can resonate in the hearts of the masses, give it what you’ve got at Two’s a Show!
+\n
+\n
+\nREGISTRATION:
+\nParticipants can register both online and offline (on the spot). Please note: Only one person from the pair should register.\n
+</string>
+
+    <string name="twoashowrules">
+\n
+\nRULES:\n
+1. Each pair is allotted a total of 7 minutes including setup.\n
+2. There should be exactly 2 members in a team.\n
+3. Any number of instruments can be played by the participants.\n
+4. An acoustic guitar, a synthesizer and drum kit will be provided. The participants can bring any other instrument required.\n
+5. Beat boxing is allowed.\n
+6. Use of loopers and digital rhythm patterns is strictly prohibited. However use of digital effects is allowed.\n
+7. Vocals (if any) must be in either English or Hindi or both.\n
+7. Maximum 2 pairs are allowed per college.\n
+
+\n
+\nPlease note: Performers have freedom to perform as they wish. Any combination of instruments or vocals or both is allowed.\n
+
+\n
+\nJUDGING CRITERIA: Originality, creativity, coordination and overall impact. \n
+
+\n</string>
+    <string name="Acoustic">Acoustic Alchemy (Unplugged)\n
+
+\n
+\nCan you experiment with raw tunes and sing in a langue etrangere?\n
+Create a mind-blowing musical reaction with the languages you love and show us your chemistry as Acoustic Alchemy will be your laboratory!\n
+
+\n
+\nREGISTRATION:\n
+Participants can register both online and offline (on the spot). Please note: Only one person from the team should register.\n
+
+\n
+        </string>
+    <string name="acousticrules">
+\nRULES:\n
+1. The song choice maybe in any language  EXCEPT Hindi or English.\n
+2. Each group is allotted a total of 8 minutes.\n
+3. The number of members in one group can range between 2 and 6 including one vocalist (compulsory).\n
+4. All required instruments besides keyboard, acoustic guitar and drum kit (provided)\n
+have to be brought by the participants.\n
+5. All instruments should be acoustic except keyboard (only piano) and bass guitar.\n
+6. Maximum 2 teams are allowed per college.\n
+
+\n
+\nJUDGING CRITERIA: Vocal dynamics, originality, creativity, coordination and overall impact.\n
+</string>
+    <string name="Paridhan">SponsorsActivity</string>
+    <string name="xyz">SponsorsActivity</string>
+    <string name="uvs">SponsorsActivity</string>
+
+    <string name="EngiIdol">Engi-Idol (Indian Vocals- Solo)\n
+Does music run through your veins and beat in your chest? Is singing the passion you live for? Yes? Then bring out the performer in you at Engi-Idol and mesmerize the audience with your voice.\n
+
+\n
+\nREGISTRATION:\n
+Registration has to be done ONLINE ONLY. There will be NO on the spot registration.\n
+
+\n
+\nONLINE PRELIMS:\n
+Send your recording (audio/video) or the link to your YouTube video along with your contact details to madhurima.indian@gmail.com.\n
+
+</string>
+
+    <string name="engiidolrules">
+\nRULES:\n
+1. Each participant is allotted a total of 6 minutes including setup.\n
+2. One accompanying instrument is allowed.\n
+3. Karaoke track can be used.\n
+4. All required instruments besides acoustic guitar and synthesizer have to be brought by the participants.\n
+5. Genre for the performance should be light classical. Purely classical songs are prohibited.\n
+6. Only the participants shortlisted after the online prelims can participate in the finals to\n
+be held on campus.\n
+
+\n
+\nJUDGING CRITERIA: Quality of singing, creativity, vocal range, clarity in lyrics and overall impact. \n
+
+\n</string>
+    <string name="Vocalicious">Vocalicious (Western Vocals- Solo)\n
+
+\n
+\nIf music is your language, and the stage is your world, then grab the microphone and\n
+get ready to enchant everyone with your vocals. Come, be a part of Vocalicious. The stage awaits you.\n
+
+\n
+\nREGISTRATION:\n
+Registration has to be done ONLINE ONLY. There will be NO on the spot registration.\n
+
+\n
+\nONLINE PRELIMS: Send your recording (audio/video) or the link to your YouTube video along with your contact details to madhurima.western@gmail.com.\n
+
+        </string>
+    <string name="vocaliciousrules">
+\n
+\nRULES:\n
+1. Each participant is allotted a total of 6 minutes including setup.\n
+2. One accompanying instrument is allowed.\n
+3. Karaoke or Backing track is strictly prohibited.\n
+4. All required instruments besides acoustic guitar and synthesizer have to be brought by the participants.\n
+5. Rap is not allowed.\n
+6. All song choices should be in English.\n
+7. Only the participants shortlisted after the online prelims can participate in the finals to be held on campus.\n
+
+\n
+\nJUDGING CRITERIA: Quality of singing, creativity, vocal range, clarity in lyrics and overall impact. \n
+
+\n
+</string>
+    <string name="Balladeers"> Balladeers (Western Vocals- Acapella Group)\n
+
+\n
+\nMusic is, certainly, the strongest form of magic- one that transcends all boundaries. So\n
+gather up your best wizards and bewitch the audience with your symphonies! Cast your spell at Balladeers!\n
+
+\n
+\nREGISTRATION:\n
+Participants can register both online and offline (on the spot). Please note: Only one person from a group should register.\n
+
+        </string>
+    \n
+    <string name="Balladeersrules">
+\nRULES:\n
+1. Each group is allotted a total of 12 minutes including sound check.\n
+2. The number of members in one group can range between 5 and 25.\n
+3. Use of instruments is not permitted at any time during the performance.\n
+4. Beat boxing is allowed.\n
+5. All song choices should be in English.\n
+6. Only one group is allowed to participate from one college.\n
+
+\n
+\nJUDGING CRITERIA: Vocal dynamics, originality, creativity, coordination and overall impact. \n
+
+\n</string>
+    <string name="Vrind">Vrind (Indian Vocals- Group)\n
+
+\n
+\nMusic is well said to be the speech of angels. If yours is the team that can create a\n
+heaven with your voices, get ready with your bandish, and take the stage at Vrind!\n
+
+\n
+\nREGISTRATION:\n
+Participants can register both online and offline (on the spot). Please note: Only one person from a group should register.\n
+
+        </string>
+    <string name="Vrindrules">
+\n
+\nRULES:\n
+1. Each group is allotted a total of 12 minutes including setup.\n
+2. The number of members in one group cannot exceed 20 including accompanists.\n
+3. Maximum three accompanying instruments are allowed.\n
+4. A synthesizer and acoustic guitar will be provided. The participants must bring any other instruments needed.\n
+5. Beat boxing is allowed.\n
+6. Genre for the performance should be Hindustani classical.\n
+7. Only one group is allowed to participate from one college.\n
+
+\n
+\nJUDGING CRITERIA: Vocal dynamics, originality, creativity, coordination and overall impact. \n
+
+\n</string>
+
+
+    <string name="STFU">The two participants be on opposite sides of the stage.\n
+    The songs played during the battle would be randomly played by the DJ.\n
+     There would be two rounds of performances during each battle.\n
+     There would not be any point system in the battle round. The winner would be announced after each battle by the judge’s discretion.\n
+     The time given to each contestant in the preliminary rounds would be approx. 30 seconds.\n
+     In the finals, the time limit for each performer in each round will be approx. 1 minute.\n
+     The judging criteria for the popping will be based on-\n
+
+    \n ORIGINAL POPPING MOVEMENTS (Foundation, Techniques and Variations of styles ex: Popping, Boogaloo, Tutting, Animation, Snaking etc...)\n
+     CHARACTER and CHARISMA (Eye contact and Interaction with environment)\n
+     MUSICALITY (Pure Funk, Improvisation and Interaction with the music)\n
+     STYLE and GRACE (Execution and Demonstration of body control through balance, strength and range of motion)\n
+     ATTITUDE (No fear Confidence, High energy, Good sportsmanship. Ability to experiment through improvisation and making any mistakes into something, Focus on the music...not moves or worries!)\n
+     FLOOR WORK (Within the Popping vocabulary)\n
+     STAGE PRESENCE (Entertainment quality/Performance/Audience connection)\n
+     CREATIVITY (....Add your flavor, Be Extraordinary)\n
+
+    \n
+    \n· TWO ON TWO POPPING BATTLES\n
+
+    \no All preliminary rounds would be two rounds each and each performer would get approx. 30 seconds to perform.\n
+     In the final would, there would be 3 rounds.\n
+     The time limit for each performer during preliminary rounds would be approx. 30 seconds.\n
+     The time limit for each performer during the finals would be approx. 1 minute.\n
+     The music played by the DJ would be random and would feature funk, rap, break beats, electronica etc.\n
+     The judging would be non-point based and the sole discretion of the judge would decide who wins the round.\n
+     The result would depend upon the combined performance of both the team members.\n
+
+    \nONE ON ONE BREAKING BATTLE :\n
+
+    \no The two participants be on opposite sides of the stage.\n
+     The songs played during the battle would be randomly played by the DJ.\n
+     There would be two rounds of performances during each battle.\n
+     There would not be any point system in the battle round. The winner would be announced after each battle by the judge’s discretion.\n
+     The time given to each contestant in the preliminary rounds would be approx. 30 seconds.\n
+     In the finals, the time limit for each performer in each round will be approx. 1 minute.\n
+     The judging criteria for the popping will be based on-\n
+     CHARACTER and CHARISMA (Eye contact and Interaction with environment)\n
+     MUSICALITY ( Improvisation and Interaction with the music)\n
+     STYLE and GRACE (Execution and Demonstration of body control through balance, strength and range of motion)\n
+     ATTITUDE (No fear Confidence, High energy, Good sportsmanship. Ability to experiment through improvisation and making any mistakes into something, Focus on the music...not moves or worries!)\n
+     FLOOR WORK (Within the Breaking vocabulary)\n
+     STAGE PRESENCE (Entertainment quality/Performance/Audience connection)\n
+     CREATIVITY (....Add your flavor, Be Extraordinary)\n
+
+    \nTWO ON TWO BREAKING BATTLES\n
+
+    \no All preliminary rounds would be two rounds each and each performer would get approx. 30 seconds to perform.\n
+     In the final would, there would be 3 rounds.\n
+     The time limit for each performer during preliminary rounds would be approx. 30 seconds.\n
+     The time limit for each performer during the finals would be approx. 1 minute.\n
+     The music played by the DJ would be random and would feature funk, rap, break beats, electronica etc.\n
+     The judging would be non-point based and the sole discretion of the judge would decide who wins the round.\n
+     The result would depend upon the combined performance of both the team members.\n
+     The judging criteria for the popping will be based on-\n
+     CHARACTER  and CHARISMA (Eye contact and Interaction with environment)\n
+     MUSICALITY ( Improvisation and Interaction with the music)\n
+     STYLE GRACE (Execution and Demonstration of body control through balance, strength and range of motion)\n
+     ATTITUDE (No fear Confidence, High energy, Good sportsmanship. Ability to experiment through improvisation and making any mistakes into something, Focus on the music...not moves or worries!)\n
+     FLOOR WORK (Within the Breaking vocabulary)\n
+     STAGE PRESENCE (Entertainment quality/Performance/Audience connection)\n
+     CREATIVITY (....Add your flavor, Be Extraordinary)\n
+
+    \n
+    \n· FOUR ON FOUR All styles BATTLE\n
+
+    \no The number of members in the crew should be 4.\n
+     Total time duration for the preliminary rounds would be 6 minutes.\n
+     The changeover between the crews would be done at a gap of 30 seconds.\n
+     The finals would feature a total time duration of 8 minutes.\n
+     Elements of breaking must be incorporated in the performance namely toprock, downrock, freezes and power moves along with other dance forms of hip hop.\n
+     The judging would not be point based and would be done on the discretion of the judge based on overall team performance.\n
+
+    \n
+    \n
+        </string>
+    <string name="stfurules">
+    \nThe rules and regulations are subject to change based on the discretion of the organizers. Kindly keep checking the official site of the ENGIFEST and STFU for any changes in the rules and procedures.\n
+
+    \nInformation on the registration procedure, registration fee, and deadline for registration, prizes and venue would be put up separately.\n
+    </string>
+    <string name="Anusanthan">
+Registration Method: Online through website or mobile app/On-the-spot
+\
+\nRegistration Fee :
+\nRs 300/- (per team) for Group
+\nRs 100/- per individual for Solo and Duet
+\n
+\nJudges : External
+\n
+\nGROUP
+\n1. For folk, teams have to perform one of the following dance forms:
+\n Alkap, Bhangra, Bhavai, Bihu, Cheraw (bamboo dance) , Chhau, Dhap, Dumhal, Gambhira, Garba(dandiya), Gaur dance, Ghoomar, Ghumura, Giddha, Gondhal, Jawara ,Jhoomer, Kalbelia, Karakattam, Koli, Lavani, Naga dance, Odissi, Padhar, Raas.
+\n If team wants to perform a form other than those mentioned above, they are required to contact the coordinators well in advance.
+\n 2.   All forms of pure Indian classical dance forms are allowed.
+\n 3.	Semi-classical styles are allowed provided there are distinctive classical elements are identified in the performance, amalgamated with other fusion styles. Contact the event coordinator in case of any queries.
+\n 4.   The teams must bring CDs/ Pen-drive for the music (audio format)
+\n 5.   Time Limit:
+\n Minimum: 7 minutes
+\n Maximum: 10 minutes.
+\n (One minute will be allowed in addition to maximum time for setup and strike of props)
+\n 6.   Team size:
+\n Minimum: 6
+\n Maximum: 15
+\n 7.	Judging Criteria:Choreography, Synchronization, Expression, Creativity, Prop Usage, Costume, Energy, Stage coverage, and overall impact.
+\n 8.  All props are allowed except for the following:
+\n Swords, knives, or any other sharp objects (unless plastic – but must be approved prior to performance)
+\n Fire in any form (candles, torches, etc.)
+\n Fog or smoke Helium balloons Special lighting
+\n
+\n
+\n SOLO
+\n
+\n
+\n
+\n ROUND 1: Online Prelims:
+\n PARTICIPANTS ARE SUPPOSED TO SEND A VIDEO OF THEIR PERFORMANCE(MAXIMUM: 6
+\n MINUTES, CLASSICAL/SEMI-CLASSICAL/FOLK) TO  nrityangana.dtu@gmail.com LATEST BY
+\n
+\n 12TH FEBRUARY 2018.
+\n
+\n
+\n 1.   All forms of pure Indian classical dance forms are allowed.
+\n 2.	Semi-classical styles are allowed provided there are distinctive classical elements are identified in the performance, amalgamated with other fusion styles. Contact the event coordinator in case of any queries.
+\n 3.   For folk, teams have to perform one of the following dance forms:
+Alkap, Bhangra, Bhavai, Bihu, Cheraw (bamboo dance) , Chhau, Dhap, Dumhal, Gambhira,Garba (dandiya), Gaur dance, Ghoomar, Ghumura, Giddha, Gondhal, Jawara
+,Jhoomer, Kalbelia, Karakattam, Koli, Lavani, Naga dance, Odissi, Padhar, Raas.
+
+
+If a participant wants to perform a form other than those mentioned above, they are required to contact the coordinators well in advance.
+\n 4.	Time Limit(Online Prelims): Minimum: 4 minutes Maximum: 7 minutes.
+(One minute will be allowed in addition to maximum time for setup and strike of props)
+\n 5.   Judging Criteria:
+\n
+\n      Choreography, Synchronization, Expression, Creativity, Prop Usage, Costume, Energy, Stage coverage, and overall impact.
+\n All props are allowed except for the following:
+\n Swords, knives, or any other sharp objects (unless plastic – but must be approved prior to performance)
+\n Fire in any form (candles, torches, etc. Fog or smoke
+\n
+\n
+\n
+\n Helium balloons
+\n Special lighting
+\n
+\n
+\n
+\n ROUND 2: ONE ON ONE FACE OFF BATTLE
+\n
+\n
+\n THE SELECTED CONTESTANTS WILL MOVE FORWARD TO ROUND TWO, IN WHICH THEY WILL BATTLE AGAINST A FELLOW CONTESTANT(FACE OFF) ON THE SONG CHOSEN BY THE ORGANISERS. THE PARTICIPANTS SHALL PERFORM THEIR SELECTED CLASSICAL/SEMI- CLASSICAL/FOLK DANC STYLE ON SONGS THAT MAY NOT BE OF THE SAME GENRE.
+\n
+\n
+\n **In case of conflicts, decision of the judges would be considered final and binding**
+\n
+\n
+\n For queries, contact:
+\n
+\n
+\n Ria Shrivastava
+\n 9599589075
+\n Kashvi Shrivastava
+\n 8290282664
+
+</string>
+    <string name="BOB">
+\n
+\n
+\n
+\n"Its all about the game and how you play it
+\nAll about control and if you can take it"
+\n
+\nIf these lines instantly remind you of a deep, husky low-pitched growl, you have arrived at the right spot.
+\nEngifest’18, the annual cultural festival of Delhi Technological University invites you to an ear-shattering Arpeggio - Battle of the Bands. Let the cymbals clank, the guitars strum and the screams rattle Delhi-42!
+\n
+\n
+\nEVENT DETAILS
+\n
+\n
+\nNUMBER OF ROUNDS: 3
+\n
+\n
+\nTEAM SIZE: 3 - 6 members (All college students)
+\nAt least one Percussionist and two different instruments
+\n
+\n
+\nELIMINATION
+\n1. Bands will be required to send in at least one recorded original compositions and one cover at arpeggiobotb@gmail.com, latest by 9th February 2018. The mail must include name of the band, name and college names of the band members and one contact number
+\n2. The covers can be improvised.
+\n
+\nTop 10 entries will be selected for the semi-finals.
+\n
+\n
+\nSEMI-FINALS
+\n1. Bands will be required to perform at-least one original composition
+\n2. The time limit has been set at 15 minutes (including set up, sound check and clearance time)
+\n
+\nTop 5 bands will be selected for the finals.
+\n
+\nFINALS
+\n1. Bands will be required to perform at-least one original composition and one cover
+\n2. The theme of the final round will be released 3 weeks before Engifest’18.
+\n3. The time limit has been set at 20 minutes (including set up, sound check and clearance time)
+        \n
+        \n
+\nThe winner will be opening for the Rock Night.
+</string>
+    <string name="bobrules">
+        nRULES
+\n1. Obscenity (At the discretion of the judges) of any kind is not allowed
+\n2. Exceeding the time limit may affect judging criterion
+\n3. The participants are required to carry along with them their instruments and gears which include guitars, keyboards, processors, cymbals and stands
+\n4. A standard 5-piece drum kit, keyboard stand, cables and Microphones will be
+provided
+\n5. Vocal Processors are not allowed; any band using vocal processors will be disqualified straightaway
+\n6. The decision of the judges would be final and irreversible
+\n
+    </string>
+    <string name="StandUp">\n Engifest Infinity brings to you Infinite bouts of laughter, Infinite spurts of comedy,
+Infinite doses of jokes and insults.
+\n All of it will leave you rolling on the floor with your tummy aching!
+\n
+\n
+\n The event will have two rounds -
+\n Round 1: PRELIMS/ELIMINATION
+\n
+\n
+\n Team Size: Solo
+\n Time Limit: 3-4 minutes.
+\n Prelims/Eliminations will be conducted on-ground during the fest, where the participants have to put on a show of 3-4 minutes in front of a live audience.
+\n
+\n
+\n Round 2: FINALS
+\n
+\n
+\n The participants who clear the elimination round will be asked to prepare a sketch to perform in front of a live audience and the judges.
+\n
+\n
+\n Judging Criteria: Content, Quality of humor, Stage presence, Audience Engagement, Clarity of thought and speech, Wackiness, USP (Unique selling point)
+\n
+\n
+\n Time Limit: 4-5 minutes.
+\n
+</string>
+
+    <string name="StandUpRules"> Rules and Regulations:
+\n 1. Mono-acting, puppetry, musicals are not allowed though ventriloquism is allowed.
+\n 2. Use of props is allowed, brought in by the participant himself. The organizers hold the discretion of allowing it on stage.
+\n
+\n
+\n 3. Decisions taken by the judge is absolute and binding.
+\n 4. Use of obscenity/profanity is strictly not allowed.
+\n 5. Any Form of music is not allowed during the performance.
+\n 6. Since the participants are called upon in a random order, each is required to be present at least 5 minutes prior to the start. Organisers will not be responsible if you are unable to show up on time and miss your slot.
+</string>
+
+    <string name="Spandan">\nDance is the language of the soul and ENGIFEST’18 gives every soul a beautiful platform
+to express, a competitive environment for every dancer to showcase their talent!
+\n
+\n(a) SOLO: Calling out to all dance enthusiasts to dance their hearts out. Whatever your style be - jazz, hip hop, contemporary, classical or freestyle, SPANDAN gives you a chance to showcase your hidden talent and passion.
+\n
+\n(b) GROUP: Dancing together is different feet moving to the same beats. We invite you to a fleeting moment where you feel alive, to enchant the crowd with your vibrant rhythm and to claim the Spandan crown.
+\n</string>
+    <string name="SpandanRules">
+\n(a) SOLO:
+\n
+\nNumber of rounds: 2
+\n
+\nROUND 1 - Preliminary round: Video based selection round.
+\n
+ROUND 2 - Finale: Best 15 people selected from the prelims will compete against each other on the day of the final event
+\n
+\n1. Only college students are allowed.
+\n2. Last date of online registration is xyz. On the spot registrations will not be entertained.
+\n3. Any props/costumes if to be used should be arranged by the participants. Use of fire or any other inflammable object is restricted.
+\n4. Time limit is 2-4 minutes.
+\n5. Qualified participants have to ensure that one copy of their edited song is with the
+event head and one copy they should carry with them. Song should be in .mp3 format. Also, it is the contestants duty to be careful and aware of the order of performance and should be present 15 minutes before the allotted time.
+\n6. All the participants are required to carry their identity cards to the campus on the day of the event.
+\n7. The organizing committee reserves the right to change the venue, time and rules, if required.
+\n8. The decision of the judges will be final and binding.
+\n
+\n(b) GROUP:
+\n
+\nNumber of rounds: 2
+\nROUND 1 - Preliminary Round: Video based selection
+\nROUND 2 - Finale: Best 15 teams selected from the prelims will compete against each other on the day of the final event
+\n1. There is no restriction on the theme. Its an Open theme Group Dance Competition.
+\n2. Maximum 1 team per college allowed.
+\n3. Cross-college teams are not allowed.
+\n4. Only college students are allowed to participate.
+\n
+\nPrelims:-
+\n
+\n1. Teams have to submit a 3-5 minute video of their performance for prelims.
+\n2. In case of multiple video submissions, only the first one will be considered for evaluation.
+\n3. No late entries shall be tolerated.
+\n4. Decision of the judges and the Organising Committee will be final and binding.
+\n5. No responsibility will be held by DTU for any late or lost entries or any such events.
+\n
+\nFinals:-
+\n1. Time limit per team: 8-10 minutes. Teams will be penalized in case the time limit is exceeded.
+\n2. Team size should not be more than 20. However there must be at least 6 members on stage at any point during the performance.
+\n3. It is mandatory for all the team members to carry their college ID cards to the final event.
+\n4. Usage of props is allowed and should be consulted with any of the event heads in advance.
+\n5. Use of fire or any other inflammable object is restricted.
+\n6. No lead dancer or solo performance is allowed at any point of time during the performance.
+\n7. The selected teams must send their final song track 2 days before the final event and also bring the same in a pen drive/CD on the day of the final event.
+\n8. The selected teams must report at the registration desk two hours before the event.
+\n9. Decision of the judges and the Organising Committee will be final and binding. The college reserves the right, in its sole discretion, to disqualify any entry at any time in the event if it is determined that the entrant has not complied with these rules or has acted in an unsportsmanlike or disruptive manner.
+\n10. The prizes are subject to change on the basis of quality of participation.
+\n
+\nREGISTRATION FEE
+\n(a) SOLO: 100/person
+\n(b) GROUP: 300/team
+</string>
+    <string name="film_Making">Parchhayi, the photography and film-making society of DTU is going to organise a
+short film making competition. Selected entries will be screened at the venue with the presence of the judges.
+\n\n
+1  Team size: Maximum 15 members (including the actors)
+\n 2.  Time Limit: Upto 15 minutes
+\n 3.  Theme: To Be Announced(One month before Engifest’18)
+\n 4.  Judging Criteria:
+\n Editing, Cinematography, Script, Acting, Sound design and Overall impact.</string>
+    <string name="filmmakingrules">
+\n 5.  General Rules:
+\n The movies should be either in Hindi or English or both.
+\n If you choose to make a film in Hindi, it must contain English subtitles. No other languages will be allowed.
+\n Please note that we will not be responsible for postal delays, losses or damages–
+\n make sure you send in entries sufficiently before the deadline.
+\n\nYou may use any video camera you deem suitable for shooting the movie. However, we strongly discourage low-resolution cameras, including webcams and mobile-phone cameras.
+\n\n The content of the movie should be appropriate for public screening and thus should have no vulgarity.
+\n\n Obscenity (at the discretion of the judges) of any kind is not allowed and will lead to immediate disqualification.
+\n\n Entries must be the original work of the entrants and must not infringe third-party rights.
+\n\n Please avoid photo slideshows, remixes, spoofs and advertisements. Plagiarism is strictly prohibited.
+\n Sound track can be borrowed, but with due credit.
+</string>
+    <string name="WOW">\nFORMAL EVENTS
+\n
+\n1. WAR OF WORDS
+\n
+If you think quick wit and impeccable English is your forte, then War of Words is a good enough challenge for you. Conventional, Turncoat, Parliamentary Debate- you \nname it. War of words is going to put your intellect and your command over the lingua franca of the cosmos.
+\n</string>
+    <string name="WOWrules">
+\nRULES
+\n
+\ni.	The events will be divided into different rounds depending on the number of participants.
+\nii.       Format of the debate and exact rules will be declared on the date of the competition.
+\n
+\n
+\n</string>
+    <string name="creative">
+\n CREATIVE WRITING
+\n
+SYAAHI’18 the annual Literary fest in collaboration with ENGIFEST15 of Delhi Technological University(Formerly Delhi College OF engineering) invites you to the SAGA of \nwords, where words define you , CREATIVE WRITING, A rendezvous with thoughts- khayalon se mulakat.
+\n
+\n
+In the rush of our monotonous lives, we breathe but forget to live. It is time to give Voice to our Turbulent sea of emotions and dance above the surface of the world \nand let our thoughts lift our quills into creativity that is not hampered by opinion
+\n
+\n</string>
+    <string name="Creativerules">
+\nRULES
+\n
+\ni.	First the participants need to send their entries via mail and thereby short listing will take place
+\nii.	The shortlisted candidates will participate in the competition at the campus with the topic to be decided on the spot.
+\n
+\n
+\nSo with these pretty rules, come up with your amazing thoughts and conquer the event of all times.
+\n</string>
+    <string name="mixedbag">
+\n MIXED BAG
+\n
+A WORD GAMES event, Mixed Bag is the ultimate amalgamation of literary, lingual and logical hurdles for all the masters of all trades out there! So wear your thinking \ncaps and get along with one of the most celebrated events of all time.
+\n</string>
+    <string name="mixedbagrules">
+\nRULES\n
+i.	The event comprises of only one round, which will be in the form of a 2 hours written test, where we test your word power and creativity with an array of out of \nthe box questions.
+\nii.      3 members are allowed maximum in a team. Lone wolves are allowed as well.
+\n
+\nThis is the event where you battle for the title of the Ultimate Master of Words!
+\n
+\n</string>
+    <string name="Hindilit">
+\n काव्ाजना:
+\n
+यह वह मौका है जहा आप अपनी छिपी रचनात्मकता छिखा सकत हैं, अपन अन्दर िपी काव्य प्रछतभा को प्रकट कर सकत हैं | प्रछतभाछियो को एक वास्तछवक \nस्वरछचत छहन्दी कछवता प्रस्तत करनी होिी | यह एक व्यक्तिित प्रछतयोछिता है |
+\n
+\nछनयम एव छिशाछनिश:
+\n
+\nचरण १:
+\n
+कछवता स्वरछचत एव पणत या छहन्दी में होनी चाछहए | अन्य भाषाओ में मौजि छकसी भी कछवता का छहिी अनवाि छकसी भी रूप में स्वीकार नही छकया जाएिा |एक प्रछतभािी एक प्रछवछि भज सकता है |एक कॉलज से छकसी भी सख्या में प्रछतभािी भाि ले सकत हैं |आप अपनी प्रछवछिया sahitya.dtu@gmail.com \nपर एक सीछमत समय
+\nके अन्दर भज सकत है |
+\n
+\nचरण २:
+\n
+चरण १ में चयछनत प्रछतभाछियो को िशको के सामन मच पर अपनी कछवता का वाचन करना होिा | प्रस्तछत सस्वर-वाचन और कछवता में छनछहत छवचारो के आधार \nपर छनणायको द्वारा छवजता छनणीत होि।
+\n</string>
+    <string name="jam">
+\nJAM
+\n
+\nGet ready for this fast paced, 60 second linguistic thriller! This battle tests your quick thinking, speaking ability and command over the English language.
+\nYou got a minute to win it!
+\n
+        </string>
+    <string name="jamrules">
+\nRULES
+\ni.	This is an individual event. However, more than one person from any college can participate.
+ii.      The participants will be divided into groups of 12 for the preliminary round. iii.      Top 12 scorers from the preliminary round will qualify for the final \nround.
+\niv.      Participants will be judged on their clarity of thought, flow of speech, time for which they speak and on the refutations.
+\n
+\nv.	Refutations will be allowed on unnecessary repetitions of sentences, stammers, unnatural pauses, grammatical errors, mistimed starts, and other such errors.
+\n
+\nPOINTS TO REMEMBER
+\ni.      The JAM master is GOD
+\nii.      Stick to point 1 to course smoothly through the competition.
+\niii.      Any issues or discrepancies shall be resolved by the JAM master. iv.      The JAM master shall have the final verdict in all matters.
+\nv.      Keep in mind, that audibility and clarity of speech is key in this competition.
+\n
+\n</string>
+    <string name="hindilit2">
+\nदृष्टिकोण
+\n
+\nSyaahi, the Literary fest organized by Sahitya under Engifest, presents DRISHTIKON, a Hindi extempore like no other.
+\nयह एक मौखिक प्रतियोगिता है, जिसमे आप को दिए गए विषय पर आधारित एक चित्र के सम्बन्ध में अल्प-समय में सोचकर एक सरल और तार्किक तरीके में अपने विचारों को व्यक्त करना होगा|
+\nदृष्टिकोण is a contest, in which one has to express views on the given subject in a short time frame.
+    </string>
+    <string name="hindilit2rules">
+\n
+\nयह एक मौक्तखक प्रछतयोछिता है, छजसम आप को छिए िए छवषय पर आधाररत एक छचत्र  के सम्बन्ध में अल्प-
+\nसमय में सोचकर एक सरल और ताछकक तरीक में अपन छवचारो को व्यि करना होिा|
+\nष्टनयम:
+\nयह एक व्यक्तिित प्रछतयोछिता है और एक कॉलज से छकसी भी सख्या में प्रछतभािी भाि ले सकत हैं |
+\nचरण १:
+\nपहल िौर में एक आशभाषण प्रछतयोछिता होिी| प्रत्यक प्रछतभािी को ३० सकड छवषय पर सोचन के छलए छिए
+जायि और छिर २ छमनट में छवचार व्यि करन होि, छजसम उस छवषय से एक छनष्कष भी छनकालना होिा और उस ३० सकड में व्यि करना होिा |अनग्रह अवछध की \nसमाक्ति के पश्तात भी बोलन पर आपक अक काट जा सकत हैं |
+\nचरण २:
+\nयह भी एक आशभाषण प्रछतयोछिता होिी, लछकन पहल चरण से कही अछधक और कािी अलि होिी | शष
+\nछनयम पहल चरण की समाक्ति के बाि बताय जायि |
+\n
+\n
+\nअन्य अछतररि एव नय छनयम और छिशाछनिश प्रछतयोछिता के समय स्पि छकय जायि |
+\n
+\n
+\n</string>
+    <string name="paridhan">
+        It’s a new era in fashion- there are no rules. It’s all about reflecting who you are, what you feel at the moment, and where you’re going. Engifest’18 brings to you Paridhan- the perfect avenue to express yourself through fashion.
+PARIDHAN
+\nRegistration has to be done ONLINE ONLY. There will be no on the spot registration.
+\nRegistration link:
+\n
+\nParidhan’18 has two rounds
+\n1.Prelims
+\n2.Stage round
+\n
+\n1.Before Prelims:
+\nVideos and photo shoots of models need to be sent to us on paridhandtu@gmail.com which will be the initial criteria for Prelims selection, only 15 to 17 teams are selected for prelims round.
+\n
+\n2.Prelims:
+\nIn prelims round, the teams will be filtered on the basis of their overall performance.Top 6 teams will be selected for the stage round.The teams which qualify for the stage round can include their designs for the prelims round in their stage round.
+\n
+\n3.Stage Round:
+\nFinal 6 teams will perform on the final day of performance.
+\nJUDGING CRITERIA
+\nTheme: Open theme but having social cause, Depiction of Theme, Designing, Use of Props
+\nDesigners: Depiction of theme, Designing, Creativity in use of props
+\nModels: Ramp Walk, Stage Presence, Poise, Overall Appearance
+\nTeam: Choreography, Music Selection, Co-ordination
+    </string>
+    <string name="paridhanrules">
+\nRULES AND REGULATIONS
+\n1.	Paridhan is open only for college students
+\n2.	Only 1 team per college is allowed
+\n3.	All team members must carry with them their valid college ID cards for the current year.
+\n4.	Time limit: 8 minutes at max.Excluding stage clearance
+\n5.	Points will be deducted for exceeding the time
+\n6.	Team size: may vary from 10-16 members including Models, Designers, Choreographers and makeup Artists
+\n7.	Props need to be arranged by the teams on their own. Use of fire, water, animals or any other hazardous material is not allowed. In case of any confusion, please consult the organisers before using any such material.
+\n8.	Vulgarity of any kind will lead to disqualification of the team from the event. It is strongly recommended to consult the organisers beforehand, in case the team feels any costume or stunt may be considered vulgar. The decision of the organisers will be final in case of an dispute arising due to this.
+\n9.	Outside help is prohibited and any team caught will be disqualified.
+\n10.	Teams are instructed to mail the soundtrack/music to be used to the organisers at least a day prior to the event (in mp3 format, at paridhandtu@gmail.com)
+\n11.	The decision of the judges will be final and binding on all
+</string>
+    <string name="livewire">\nYour feet wont touch the ground
+\nYour head wont stay still
+\nYour hands wont stop swaying
+\nYour vocal chords wont stop roaring
+\nYour body wont stop moving
+\nAll this and more!\n
+
+\nGet ready to be enthralled at Live Wire-The Star Night as the energy of a popular artist reverberates in the crowd.\n
+
+\nHaving featured stars like Vishal and Shekhar and Mohit Chauhan in the previous years, Live Wire at Engifest Infinity will surely be a night of making of infinite college memories!</string>
+    <string name="EDM">\nAdhbudh. Anokha. Aelaan.
+\nAkkad Bakkad Bambe Bo.
+\nEngi main dekho aa gaya woh.
+\nAaja thoda Chennai Bass bajva de.
+\nBass Rani ke saath Raja Baja bhi bulva de.
+\nAao Engifest ka Scene Set Karwa De!
+\nEngifest 2018 and Pokerbaazi.com present to you one of the most exciting, experimental and engaging electronic music producers in the Indian Scene – NUCLEYA!
+\nThis 20th February, get ready to groove, get ready to headbang at Engifest, DTU. GET READY TO EXPERIENCE THE INFINITE!</string>
+    <string name="rock">
+    \n"One good thing about music, when it hits you, you feel no pain."
+\n-Bob Marley\n
+
+\nEngifest Infinity brings to you the biggest celebration of Rock Music in the North of India. Feel the base pounding in your chest, feel the blood rushing in your veins, for this will make you fall in love with music over and over again.\n
+
+\nExperience the nights magnificence and grandeur as the nationwide famous Rock stars set the stage on fire.\n
+
+\nYou dont want to miss it, not now, not ever. Infinite is all that we guarantee.\n
+</string>
+    <string name="Pathtoinfinity">
+\nEngifest, the annual cultural festival of Delhi Technological University(formerly DCE). With a footfall of over 60,000 and 300+ participating colleges, it is one of the biggest festivals of North India.
+\nEngifest Infinity presents to you - your Path to Infinity! Infinite Happiness, Infinite Fun and Infinite Prizes(read : money). The biggest FILM MAKING event of the town!
+\nHere is the deal :
+\n- Visit us or Reside with us from 17th-20th February 2018.
+\n- Record the making, the setting up, the team work, the events, the pro-nites- anything and everything
+\n-Make a short film on Engifest. You will be given 2 weeks post 20th February to edit, process and make the short film.
+\n-Duration : 3-6 minutes
+\n-Team Size - Maximum 5(No Lower Limit.)\n
+
+\nWhat is in it for you?
+\n-Cash prizes worth Rs1,00,000 (yes, 5 zeroes)
+\n-An all access pass for all the events
+\n-A chance for your movie to feature on the OFFICIAL website of DTU.
+\n-Top 3 entries will be featured on the official channel of DTU - DTU STUDIO.
+\n-A chance to meet the EDM king of India - DJ Nucleya!\n
+
+\nNote : You are required to give us the raw footage. Option for accommodation is available. No participation fees
+    </string>
+    <string name="standup">
+    \nThe witty ones know their way with words and sometimes all that comedy needs is words placed in wrong order. \n
+
+\nFor the first time ever, Engifest will feature a popular Stand-Up Comedian who will make you laugh till your jaw hurts, eyes water and stomach aches, and then some more. Gear up for some entertaining, light-hearted comedy with the best in the industry at Engifest Infinity. \n
+</string>
+    <string name="photographia">We also bring to you  Fotographia- an Online Photography Competition. It provides a great stage for young and creative minds with a zeal of photography to showcase their skills to a larger audience.
+</string>
+    <string name="Kaleidoscope">Kaleidoscope- The Annual Film Festival of Delhi Technological University.
+    </string>
+    <string name="shakedown">
+    \nThe whirr of tyres speeding down the tracks; the feel of vintage bikes driving by you… Yes! SHAKEDOWN, the most anticipated event of Engifest’18 is here!
+\nPresented by Souls of Speed, Shakedown is one-of-a-kind roadshow- a spectacle which would leave you enticed. Jaws will drop and eyes will widen, as daredevil stunts are pulled off with ease and style!
+\nDate: 18 Feb
+\nTime: 12:00 pm
+\nVenue: Hostel Road
+    \nAseem Bansal - 9582920037
+</string>
+    <string name="futureoffashion">
+        \nFor all those who have an eye for designs, we present this event. Put on your creative caps and get set to modify and redesign existing apparel provided and modernize it with your imaginations. Within a limited time you will be given the accessories to go with your idea. Further the participant has to present themselves with that unique apparel.\n
+\n
+
+\nJudging Criteria
+\nOverall appeal of the modification, Creativity, Style, Use of materials and Finishing.\n
+</string>
+    <string name="futurefashionrules">
+\nRules
+\n1. It is a team event. A maximum of four participants can form a team.
+\n2. Registration can be done online.
+\n3. Materials would be given by organizers prior to event and any other materials can be brought by the participants(Remember the apparel can be anything so choose wisely)
+\n4. The materials provided by organizers MUST be used during modification.
+\n5. Time limit is 3 hours.
+\n6. One of the team members shall wear that apparel after completion.
+\n7. Decision of judges shall be final and binding.
+\nMehul (PR Representative) - 9599436329
+\nKumar Sourabh - 9031769519
+\nSnober Nisar - 9717832128
+    </string>
+    <string name="selfiebrag">
+        \nNow its time to brag about your selfies. All you have to do is to click selfies before us and post it on our facebook page in front of us with a suitable quote or caption                        \n
+
+\nJudging Criteria:
+\nThe best selfie wins.\n
+</string>
+    <string name="selfierules">
+\nRules:
+\n1. Free registration on the spot!
+\n2. More information will be conveyed at the spot.
+    </string>
+    <string name="register">
+        \n\n
+1. Click on "Register" and fill all the details.\n
+2. Enter Promo Code : ENGIFEST\n
+3. Enter OTP and register.\n
+4. Activate your account through email (usually found in Promotions/Spam.)\n
+    </string>
+
+    <string name="registernote">\nNote : Unique Verification Email from Pokerbaazi.com will act as passes to the concert and provide entry into the campus!\n
+        Registrations only through this link will be considered.\n</string>
+    <string name="shoepainting">\nParticipants will be provided with a plain white shoe which they have to paint using their creativity, according to the theme that will be given to them on the spot. Poster colours and Acrylic colours will be provided as well.\n</string>
+    <string name="shoepaintrules">RULES:\n
+1. Contestants will be provided with a White Shoe and Painting Equipment.\n
+2. Time allotted for Competition is 3 hours only.\n
+3. Topic will be given on the spot.\n
+4. Contestants found with any unfair means or with layout reference during the competition will be disqualified.\n
+5. The judges result shall be final.\nNayan Lal - 9540669462 </string>
+    <string name="Artfurious">\nIn this event, contestants will be required to present their best creation out of the material provided to them. As we proceed with this competition, the challenges will keep getting tougher. Tougher themes and even tougher time restrictions. A marathon intended to test their creativity and imagination, with the completion of each stage, the contestants will be filtered until we have our Last Man Standing.\n</string>
+    <string name="artfuriousrules">\nRules:\n
+1. There will be 3 Rounds: The total time provided for completing all the rounds will be 3 hours.\n
+2. Required Materials will be provided.\n
+3. Activities along with topics will be given on the spot for each round.\n
+4. Contestants found with any unfair means or with layout reference during the competition will be disqualified.\n
+5. The judges result shall be final and binding.\nNayan Lal - 9540669462 \n</string>
+    <string name="threedart">\nContestants are required to sculpt a model using blades and sculpting tools, out of the material provided to them.\n</string>
+    <string name="threedartrules">\nRULES:\n
+1. The Duration of competition is of 3 hours.\n
+2. Required Materials will be provided.\n
+3. Topics will be given on the spot.\n
+4. Contestants found with any unfair means or with layout reference during the competition will be disqualified.\n
+5. The judges result shall be final and binding.\nNayan Lal - 9540669462\n</string>
+    <string name="kavisammelan">\n
+    Maqbool. Gangs of Wasseypur. Pink. Tamasha. The stellar soundtrack of Gulaal, and the evergreen, award-winning number --Aarambh Hai Prachanda--.
+The genius that produced them all and made them shine amongst everything else, is all set to illuminate your hearts and minds this EngiFest.
+Piyush Mishra, one of NSDs most eminent luminaries shall be here at EngiFest Infinity, on the 20th of February, 4pm onwards.
+The OAT shall shine in the glory of his sharp wit and intellectual panache. Be there.
+</string>
+    <string name="Melaevent">
+As evident, the quiz will test your knowledge on something we all are really fond of, ie Music, Entertainment, Literature and Arts. Delhi Technological Universitys Engifest, in collaboration with Syaahi, the Literary Fest of DTU presents the ultimate MELA Quiz!
+\nAre you guilty of binge-watching show after show through the nights? Has your sleep been a victim of your inability to let go without turning the next page?
+\n
+\nThis quiz is the right place to reward you for giving it to all your temptations.
+\n
+\nFrom Game of Thrones to Oscars and Grammy trivia, from Shakespeare facts to Van Gogh’s biography; see how well you can recall some of the mind boggling intricacies you know. So mark your dates for the most amazing morning to indulge in some brainstorming and exciting trivia!
+\n
+    </string>
+    <string name="melarules">
+\nRULES:
+\n
+\n1.	A team limit of 2 has been set for the event. More than one team from the same college can register for it.
+\n2.	The prelims and the finals will be conducted on the same day. Six teams with the highest score in the prelims shall proceed to the finals.
+\n3.	Use of cellphone is strictly prohibited. Any sort of unfair means will lead to disqualification from the event
+    </string>
+    <string name="harrypotter">
+Expecto Patronum……..
+\nAlhamora……..
+\nAccio…….
+\nBrackium Emendo………
+\n
+Which Potterhead would not be familiar with these magical words? So, do you wish to explore the magical corridors of Hogwarts, the changing staircases with the talking pictures? Here is the call for all the Potterheads out there.
+\nWear your thinking caps and show us your extravagating knowledge. So brush up your skills and come to one of the biggest quizzes of all time as Syaahi, Literary Fest of DTU along with Engifest, presents you with ultimate Harry Potter quizzing event.
+\n
+\nThe Potter family is a very old one, but it was never at the very forefront of wizarding history, contenting itself with a solid and comfortable existence in the backwaters.
+\n
+\nTake a walk through the exciting rounds and become the champ of the modern era. Be that muggle who conquer all the wizards though your knowledge.
+</string>
+    <string name="harrypotterquiz">
+RULES:
+\n
+\n1.	A team limit of 2 has been set for the event. More than one team from the same college can register for it.
+\n2.	The prelims and the finals will be conducted on the same day. Six teams with the highest score in the prelims shall proceed to the finals.
+\n3.	Use of cellphone is strictly prohibited. Any sort of unfair means will lead to disqualification from the event.
+    </string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
 </resources>
