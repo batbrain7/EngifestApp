@@ -16,7 +16,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".Activities.PlacesActivity" />
-        <activity android:name=".Activities.EventDetailActivity"></activity>
+        <activity android:name=".Activities.EventDetailActivity" />
+        <activity
+            android:name=".Activities.SponsorsActivity"
+            android:label="@string/title_activity_sponsors"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

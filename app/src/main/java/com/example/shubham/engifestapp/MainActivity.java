@@ -7,6 +7,7 @@ import android.view.View;
 
 import com.example.shubham.engifestapp.Activities.EventDetailActivity;
 import com.example.shubham.engifestapp.Activities.PlacesActivity;
+import com.example.shubham.engifestapp.Activities.SponsorsActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -17,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void IntentOpen(View view) {
-        Intent intent = new Intent(MainActivity.this, EventDetailActivity.class);
+        Intent intent = new Intent(MainActivity.this, SponsorsActivity.class);
         startActivity(intent);
     }
 }

@@ -92,10 +92,4 @@ public class EventDetailActivity extends AppCompatActivity {
 
     }
 
-    public void scrolltoCenter(TextView view) {
-        int endPos = (int)view.getRootView().getX();
-        int halfHeight = (int) view.getRootView().getY()/2;
-
-        scrollView.smoothScrollTo(0,endPos + halfHeight - scrollView.getHeight()/2);
-    }
 }
