@@ -3,6 +3,7 @@ package com.example.shubham.engifestapp.Activities;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.DisplayMetrics;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -28,7 +29,7 @@ public class EventDetailActivity extends AppCompatActivity {
         textView2 = findViewById(R.id.eventdate);
         textView3 = findViewById(R.id.eventtime);
         textView4 = findViewById(R.id.master_venue);
-        textView5= (TextView)findViewById(R.id.eventvenue);
+        textView5= findViewById(R.id.eventvenue);
         textView7 = findViewById(R.id.rulesregul);
         textView6 = findViewById(R.id.rules_event);
         textView8 = findViewById(R.id.offlink);
@@ -41,15 +42,15 @@ public class EventDetailActivity extends AppCompatActivity {
         venue = findViewById(R.id.venue);
         register = findViewById(R.id.register_link);
 
+        DisplayMetrics displayMetrics = new DisplayMetrics();
+        getWindowManager().getDefaultDisplay().getMetrics(displayMetrics);
+        final int height = displayMetrics.heightPixels;
+        int width = displayMetrics.widthPixels;
+
        date.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View view) {
-                new Handler().post(new Runnable() {
-                    @Override
-                    public void run() {
-                        scrollView.scrollTo(0,textView2.getTop());
-                    }
-                });
+               scrollView.smoothScrollTo(0,textView2.getTop() + height/2);
            }
        });
 
@@ -59,7 +60,7 @@ public class EventDetailActivity extends AppCompatActivity {
                new Handler().post(new Runnable() {
                    @Override
                    public void run() {
-                       scrollView.scrollTo(0,textView4.getBottom());
+                       scrollView.smoothScrollTo(0,textView4.getBottom() + height/2);
                    }
                });
            }
@@ -71,7 +72,7 @@ public class EventDetailActivity extends AppCompatActivity {
                new Handler().post(new Runnable() {
                    @Override
                    public void run() {
-                       scrollView.scrollTo(0,button.getTop());
+                       scrollView.smoothScrollTo(0,button.getTop() + height/2);
                    }
                });
            }
@@ -83,11 +84,18 @@ public class EventDetailActivity extends AppCompatActivity {
                new Handler().post(new Runnable() {
                    @Override
                    public void run() {
-                       scrollView.scrollTo(0,textView7.getTop());
+                       scrollView.smoothScrollTo(0,textView7.getTop() + height/2);
                    }
                });
            }
        });
 
+    }
+
+    public void scrolltoCenter(TextView view) {
+        int endPos = (int)view.getRootView().getX();
+        int halfHeight = (int) view.getRootView().getY()/2;
+
+        scrollView.smoothScrollTo(0,endPos + halfHeight - scrollView.getHeight()/2);
     }
 }
